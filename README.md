@@ -33,7 +33,7 @@
 <h3 align="center">Fullstack_MiniProject</h3>
 
   <p align="center">
-    project_description
+    Application to show an example of backend connections using Pulumi.
     <br />
     <a href="https://github.com/commanderchoco/Fullstack_MiniProject"><strong>Explore the docs »</strong></a>
     <br />
@@ -67,7 +67,6 @@
     </li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -75,10 +74,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+This is just an example of a frontend app connecting to a backend app.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `commanderchoco`, `Fullstack_MiniProject`, `bluebandannadog`, `matthew-c-long`, `gmail.com`, `matthewclong95`, `Fullstack_MiniProject`, `project_description`, `GNU GPLv3`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,32 +96,33 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+Node.js needs t be installed to run the application
+[Download Node Here](https://nodejs.org/en/download)
 
-This is an example of how to list things you need to use the software and how to install them.
+
+Verify Node.js is installed
 * npm
   ```sh
-  npm install npm@latest -g
+  npm -v
   ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/commanderchoco/Fullstack_MiniProject.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+3. Run the app
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   npm run start
    ```
-5. Change git remote url to avoid accidental pushes to base project
+4. open the page in a browser
    ```sh
-   git remote set-url origin commanderchoco/Fullstack_MiniProject
-   git remote -v # confirm the changes
+   http://localhost:3000
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -149,19 +147,6 @@ Your Name - [@bluebandannadog](https://bsky.app/profile/bluebandannadog.bsky.soc
 Project Link: [https://github.com/commanderchoco/Fullstack_MiniProject](https://github.com/commanderchoco/Fullstack_MiniProject)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
