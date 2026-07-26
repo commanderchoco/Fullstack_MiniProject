@@ -92,8 +92,7 @@ This is just an example of a frontend app connecting to a backend app.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Node.js is needed to open the project. 
 
 ### Prerequisites
 Node.js needs t be installed to run the application
