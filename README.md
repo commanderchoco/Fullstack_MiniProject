@@ -74,7 +74,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is just an example of a frontend app connecting to a backend app.
+This project uses a front-end terminal to connect to a back-end terminal to receive messages from the back-end. Currently the back-end only sends one message to the front-end: "Hello from back-end". The purpose of this project is to highlight how front and back-end apps communicate in the most basic form.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -141,7 +141,7 @@ Distributed under the GNU GPLv3. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@bluebandannadog](https://bsky.app/profile/bluebandannadog.bsky.social) - matthewclong95@gmail.com.com
+Matthew Long - [@bluebandannadog](https://bsky.app/profile/bluebandannadog.bsky.social) - matthewclong95@gmail.com
 
 Project Link: [https://github.com/commanderchoco/Fullstack_MiniProject](https://github.com/commanderchoco/Fullstack_MiniProject)
 
